@@ -122,10 +122,9 @@ zipsearch-web
 終了するには、ターミナルで `Ctrl+C` を押してください。
 
 ## 📖 詳細ドキュメント
-
+* [お知らせ](https://github.com/6EFB0D/ZipSearch/discussions/categories/announce)
 * [使い方ガイド](https://github.com/6EFB0D/ZipSearch/wiki)
 * [Q&A](https://github.com/6EFB0D/ZipSearch/discussions/categories/q-a)
-* [お知らせ](https://github.com/6EFB0D/ZipSearch/discussions/categories/announce)
 * [機能リクエスト](https://github.com/6EFB0D/ZipSearch/discussions/categories/ideas)
 
 ## 🤝 サポート
