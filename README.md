@@ -137,8 +137,3 @@ zipsearch-web
 MIT License - 詳細は [LICENSE](LICENSE) ファイルをご覧ください
 
 Copyright (c) 2026 Goplan
-
-## 🔧 開発者向け
-
-Python環境での開発やソースコードの確認については、[README.md](README.md)をご覧ください。
-
