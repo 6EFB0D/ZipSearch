@@ -1,6 +1,11 @@
 # ZipSearch - ZIP内高速検索ツール
 ZIP/7z内のCSV/TSV/TXTを高速検索するツール
 
+![GitHub release](https://img.shields.io/github/v/release/6EFB0D/ZipSearch?style=flat-square)
+![GitHub downloads](https://img.shields.io/github/downloads/6EFB0D/ZipSearch/total?style=flat-square)
+![GitHub latest downloads](https://img.shields.io/github/downloads/6EFB0D/ZipSearch/latest/total?style=flat-square)
+![License](https://img.shields.io/github/license/6EFB0D/ZipSearch?style=flat-square)
+
 **バージョン**: 0.2.0 (フリーミアム版)  
 **ライセンス**: MIT License
 
@@ -118,3 +123,4 @@ zipsearch-web
 MIT License - 詳細は [LICENSE](LICENSE) ファイルをご覧ください
 
 Copyright (c) 2026 Goplan
+
