@@ -1,0 +1,8 @@
+title = "zipsearch"
+
+[allowlist]
+paths = [
+  '''scripts/run-dev.ps1''',
+  '''scripts/build-release.ps1''',
+  '''docs/ZIPSEARCH_STRIPE_SUPABASE_SETUP.md''',
+]
