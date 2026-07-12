@@ -94,18 +94,11 @@ ZIP・ローカル・HTTP(S) 上のログや CSV を、**展開せずに横断�
 
 ### うまくいかないとき（セキュリティでブロックされる場合）
 
-ブラウザや Windows のセキュリティ警告（SmartScreen 等）で **`.exe` のダウンロードや実行ができない** 場合は、ZIP 版をお試しください。
+ブラウザや Windows のセキュリティ警告（SmartScreen 等）で **`.exe` のダウンロードや実行ができない** 場合は、次をお試しください。
 
-**方法 A（インストーラを ZIP 経由で取得・推奨）**
-
-1. Assets から **`ZipSearch-0.5.2-dev-setup.zip`** をダウンロード
-2. ZIP を解凍し、中の **`ZipSearch-0.5.2-dev-setup.exe`** を実行してインストール
-
-**方法 B（ポータブル版・インストール不要）**
-
-1. Assets から **`ZipSearch-0.5.2-win-x64.zip`** をダウンロード
-2. 任意のフォルダに解凍し、**`ZipSearch-GUI.exe`** を起動
-
+1. Assets から **`ZipSearch-*-dev-setup.zip`** をダウンロード
+2. ZIP を解凍し、中の **setup.exe** を実行してインストール
+3. 実行時に警告が出た場合は **「詳細情報」→「実行」** を選択
 ## 🚀 使い方
 
 ### GUI版（推奨）
@@ -176,4 +169,4 @@ Copyright (c) 2026 Office Go Plan
 
 ## 📥 ダウンロード
 
-インストーラ・ポータブル版は [Releases](https://github.com/6EFB0D/ZipSearch/releases) の **ページ下部「Assets」** から入手できます。各ファイルの SHA-256 チェックサムを同梱しています。`.exe` がセキュリティでブロックされる場合は **setup.zip** または **ポータブル版 zip** をご利用ください（詳細は「インストール」章）。
+インストーラは [Releases](https://github.com/6EFB0D/ZipSearch/releases) の **ページ下部「Assets」** から入手できます。各ファイルの SHA-256 チェックサムを同梱しています。`.exe` がセキュリティでブロックされる場合は **setup.zip** をご利用ください（詳細は「インストール」章）。
