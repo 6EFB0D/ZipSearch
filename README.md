@@ -1,6 +1,6 @@
 # ZipSearch - アーカイブログ横断検索ツール
 
-**バージョン**: 0.5.6（評価版・DEV ビルド）  
+**バージョン**: 0.5.7（評価版・DEV ビルド）  
 **ライセンス**: MIT License
 
 ZIP・ローカル・HTTP(S) 上のログや CSV を、**展開せずに横断検索**できる Windows 向けツールです。
@@ -86,7 +86,7 @@ ZIP・ローカル・HTTP(S) 上のログや CSV を、**展開せずに横断�
 
 ### Windows版（インストーラ）
 
-1. [リリースページ](https://github.com/6EFB0D/ZipSearch/releases)を開き、ページ下部の **「Assets」** から `ZipSearch-0.5.2-dev-setup.exe` をダウンロード
+1. [リリースページ](https://github.com/6EFB0D/ZipSearch/releases)を開き、ページ下部の **「Assets」** から `ZipSearch-0.5.7-dev-setup.exe` をダウンロード
 2. インストーラを実行してインストール
 3. デスクトップまたはスタートメニューから ZipSearch を起動
 
@@ -154,6 +154,7 @@ zipsearch-web
 |----------|------|-----------|
 | `pdfhandler_demo_logs` | log4net 形式の Rolling ログ ZIP | log4net 解析（Pro）、Rolling 横断 |
 | `structured_kv_logs` | 多層フォルダ + `key=value` ログの ZIP | サブフォルダ再帰検索、KV 構造化検索（Pro） |
+| `empty_cell_csv` | 空セルありの CSV / ZIP | 空セル検索（Pro・値フィルタ完全一致 `列=` / `*=`） |
 
 各フォルダの `README.md` に手順とキーワード例を記載しています。まずは `sample_data` の ZIP を GUI へドラッグ＆ドロップしてお試しください。
 
